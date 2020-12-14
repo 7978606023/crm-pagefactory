@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43088" started-at="2020-12-14T20:55:12Z" finished-at="2020-12-14T20:55:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43088" started-at="2020-12-14T20:55:12Z" finished-at="2020-12-14T20:55:55Z">
+      <class name="com.ip.crmpagefactory.TestBase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ip.crmpagefactory.TestBase@ff5b51f]" name="setUp" is-config="true" duration-ms="38665" started-at="2020-12-14T20:55:12Z" finished-at="2020-12-14T20:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:com.ip.crmpagefactory.TestBase@ff5b51f]" name="googleSearch" duration-ms="3254" started-at="2020-12-14T20:55:51Z" finished-at="2020-12-14T20:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="closing()[pri:0, instance:com.ip.crmpagefactory.TestBase@ff5b51f]" name="closing" is-config="true" duration-ms="1068" started-at="2020-12-14T20:55:54Z" finished-at="2020-12-14T20:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- com.ip.crmpagefactory.TestBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
